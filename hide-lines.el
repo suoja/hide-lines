@@ -10,7 +10,6 @@
 ;; URL: https://github.com/vapniks/hide-lines
 ;; Keywords: convenience
 ;; Compatibility: GNU Emacs 24.3.1
-;; Package-Requires:
 ;;
 ;; Features that might be required by this library:
 ;;
